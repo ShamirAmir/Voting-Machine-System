@@ -1,2 +1,2 @@
 # Voting-Machine-System
-Software Project
+Software Project using - HTML, CSS, PHP, BOOTSTRAP, JAVASCRIPT
